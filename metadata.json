@@ -1,0 +1,6 @@
+{
+  "name": "농작물 AI 현장진단·상담 도우미",
+  "description": "농촌진흥기관 및 농업기술센터 직원을 위한 농작물 AI 현장 증상 분석 및 상담기록 작성 도우미",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
